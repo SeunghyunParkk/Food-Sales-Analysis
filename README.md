@@ -9,9 +9,9 @@ This project aims to analyze key performance indicators (KPIs) for a pizza sales
 
 ## Tools & Technologies Used
 
-- **Microsoft Excel **: For preliminary data analysis and visualization.
-- **Microsoft SQL Server ** & **SQL Server Management Studio **: For data storage, extraction, and querying.
-- **Power BI **: For creating interactive dashboards and visualizations.
+- **Microsoft Excel**: For preliminary data analysis and visualization.
+- **Microsoft SQL Server** & **SQL Server Management Studio**: For data storage, extraction, and querying.
+- **Power BI**: For creating interactive dashboards and visualizations.
 
 ---
 
