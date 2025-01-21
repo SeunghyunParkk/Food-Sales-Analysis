@@ -1,6 +1,7 @@
 # Pizza Sales Data Analysis
 
 ![Dashboard Preview](images/dashboard_preview.gif) 
+
 ## Overview
 
 This project aims to analyze key performance indicators (KPIs) for a pizza sales dataset to gain insights into business performance. The goal is to calculate essential metrics that provide a comprehensive understanding of the sales trends, customer behavior, and operational efficiency.
